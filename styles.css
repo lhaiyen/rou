@@ -17,7 +17,7 @@ button {
     cursor: pointer;
 }
 #main {
-    background: #d9eaf5 url(/images/background_top.png) no-repeat center top;
+    background: #d9eaf5 url(images/background_top.png) no-repeat center top;
 }
 .container {
     width: 1170px;
@@ -138,7 +138,7 @@ button {
 }
 /* Team */
 section#team {
-    background: #fef2f5 url(/images/section2.png) no-repeat center top;
+    background: #fef2f5 url(images/section2.png) no-repeat center top;
 }
 #team .team-title {
     width: 800px;
@@ -189,13 +189,13 @@ section#team {
     background-position: center 88px;
 }
 .business-detail div:nth-child(1) {
-    background-image: url(/images/anchor.png);
+    background-image: url(images/anchor.png);
 }
 .business-detail div:nth-child(2) {
-    background-image: url(/images/archive.png);
+    background-image: url(images/archive.png);
 }
 .business-detail div:nth-child(3) {
-    background-image: url(/images/user.png);
+    background-image: url(images/user.png);
 }
 #team .about-team {
     padding-top: 192px;
@@ -295,7 +295,7 @@ section#team {
 }
 .what-we-do .wwd-detail div a {
     display: block;
-    background-image: url(/images/arrow.png);
+    background-image: url(images/arrow.png);
     background-repeat: no-repeat;
     background-position: right 10px center;
     width: 42px;
@@ -314,34 +314,34 @@ section#team {
     background-position: center 72px;
 }
 .what-we-do .wwd-detail div:nth-child(1) {
-    background-image: url(/images/squares.png);
+    background-image: url(images/squares.png);
     margin-bottom: 30px;
 }
 .what-we-do .wwd-detail div:nth-child(2) {
-    background-image: url(/images/shopping-cart.png);
+    background-image: url(images/shopping-cart.png);
     margin-bottom: 30px;
     transform: translateY(87px);
 }
 .what-we-do .wwd-detail div:nth-child(3) {
-    background-image: url(/images/video-camera.png);
+    background-image: url(images/video-camera.png);
     transform: translateY(176px);
     margin-bottom: 30px;
 }
 .what-we-do .wwd-detail div:nth-child(4) {
-    background-image: url(/images/headphones.png);
+    background-image: url(images/headphones.png);
 }
 .what-we-do .wwd-detail div:nth-child(5) {
-    background-image: url(/images/location.png);
+    background-image: url(images/location.png);
     transform: translateY(87px);
 }
 .what-we-do .wwd-detail div:nth-child(6) {
-    background-image: url(/images/upload.png);
+    background-image: url(images/upload.png);
     transform: translateY(181px);
 }
 /* Project */
 #project {
     padding-top: 190px;
-    background: #e6eef6 url(/images/project-bg.png) no-repeat center top;
+    background: #e6eef6 url(images/project-bg.png) no-repeat center top;
 }
 #project .project-title {
     text-align: center;
@@ -431,7 +431,7 @@ section#team {
 }
 /* Meet our team */
 #meet-team {
-    background: #fcf6fe url(/images/meet-out-team.png) no-repeat center top;
+    background: #fcf6fe url(images/meet-out-team.png) no-repeat center top;
 }
 #meet-team .team-title {
     padding-top: 230px;
@@ -482,7 +482,7 @@ section#team {
     width: 570px;
 }
 .testimonial h3::before {
-    content: url(/images/quote.png);
+    content: url(images/quote.png);
     position: absolute;
     left: -100px;
     top: 0;
@@ -624,17 +624,17 @@ textarea {
     margin-top: 30px;
 }
 #contact .contact-info .phone::before {
-    content: url(/images/phone.png);
+    content: url(images/phone.png);
     position: absolute;
     left: 0px;
 }
 #contact .contact-info .email::before {
-    content: url(/images/email.png);
+    content: url(images/email.png);
     position: absolute;
     left: 0px;
 }
 #contact .contact-info .address::before {
-    content: url(/images/address.png);
+    content: url(images/address.png);
     position: absolute;
     left: 0px;
 }
@@ -672,7 +672,7 @@ textarea {
 }
 /* Blog */
 section#blog {
-    background: #f3eee9 url(/images/blog-bg.png) no-repeat center top;
+    background: #f3eee9 url(images/blog-bg.png) no-repeat center top;
 }
 #blog .blog-title {
     padding-top: 192px;
@@ -750,7 +750,7 @@ section#blog {
     padding-left: 50px;
 }
 #blog .blog-info {
-    background-image: url(/images/ava1.png);
+    background-image: url(images/ava1.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -831,7 +831,7 @@ section#blog {
     top: 50%;
     right: 10px;
     transform: translateY(-50%);
-    background-image: url(/images/email-footer.png);
+    background-image: url(images/email-footer.png);
     background-repeat: no-repeat;
     background-position: center center;
 }
@@ -859,17 +859,17 @@ section#blog {
     line-height: 28px;
 }
 #get-in-touch .location::before {
-    content: url(/images/location-footer.png);
+    content: url(images/location-footer.png);
     position: absolute;
     top: 10%;
 }
 #get-in-touch .email::before {
-    content: url(/images/email-footer.png);
+    content: url(images/email-footer.png);
     position: absolute;
     top: 10%;
 }
 #get-in-touch .phone::before {
-    content: url(/images/phone-footer.png);
+    content: url(images/phone-footer.png);
     position: absolute;
     top: 10%;
 }
